@@ -8,8 +8,8 @@
 | **Field** | **Details** |
 |-----------|-------------|
 | **Nickname/Pseudonym** | Your Nickname |
-| **Interesting Fact** | An interesting fact about you |
-| **Interesting Fact2** | Another interesting fact about you |
+| **Interesting Fact** | Working on 4'th Masters degree (MS CS, MBA, MS Cyber Security) |
+| **Interesting Fact2** | Getting DTC leaders to participate in my Fall Leadership Summit (pls submit your questions) |
 
 ---
 
